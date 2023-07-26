@@ -1,0 +1,24 @@
+---------------	Create Projectt	---------------
+
+npx create-react-app login2
+npm install react-router-dom
+
+---------------	API---------------
+
+https://melivecode.com/
+
+--------------- Sweetalert2 ---------------
+
+https://sweetalert2.github.io/recipe-gallery/sweetalert2-react.html
+npm install --save sweetalert2 sweetalert2-react-content
+
+--------------- Ajax ---------------
+
+https://legacy.reactjs.org/docs/faq-ajax.html
+
+--------------- MUI ---------------
+
+https://mui.com/material-ui/getting-started/installation/
+npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/icons-material
+---------------  ---------------
